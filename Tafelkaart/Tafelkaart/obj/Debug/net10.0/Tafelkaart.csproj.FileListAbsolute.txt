@@ -1,0 +1,15 @@
+C:\Users\zange\Documents\C#\Tafelkaart\Tafelkaart\bin\Debug\net10.0\Tafelkaart.exe
+C:\Users\zange\Documents\C#\Tafelkaart\Tafelkaart\bin\Debug\net10.0\Tafelkaart.deps.json
+C:\Users\zange\Documents\C#\Tafelkaart\Tafelkaart\bin\Debug\net10.0\Tafelkaart.runtimeconfig.json
+C:\Users\zange\Documents\C#\Tafelkaart\Tafelkaart\bin\Debug\net10.0\Tafelkaart.dll
+C:\Users\zange\Documents\C#\Tafelkaart\Tafelkaart\bin\Debug\net10.0\Tafelkaart.pdb
+C:\Users\zange\Documents\C#\Tafelkaart\Tafelkaart\obj\Debug\net10.0\Tafelkaart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zange\Documents\C#\Tafelkaart\Tafelkaart\obj\Debug\net10.0\Tafelkaart.AssemblyInfoInputs.cache
+C:\Users\zange\Documents\C#\Tafelkaart\Tafelkaart\obj\Debug\net10.0\Tafelkaart.AssemblyInfo.cs
+C:\Users\zange\Documents\C#\Tafelkaart\Tafelkaart\obj\Debug\net10.0\Tafelkaart.csproj.CoreCompileInputs.cache
+C:\Users\zange\Documents\C#\Tafelkaart\Tafelkaart\obj\Debug\net10.0\Tafelkaart.dll
+C:\Users\zange\Documents\C#\Tafelkaart\Tafelkaart\obj\Debug\net10.0\refint\Tafelkaart.dll
+C:\Users\zange\Documents\C#\Tafelkaart\Tafelkaart\obj\Debug\net10.0\Tafelkaart.pdb
+C:\Users\zange\Documents\C#\Tafelkaart\Tafelkaart\obj\Debug\net10.0\Tafelkaart.genruntimeconfig.cache
+C:\Users\zange\Documents\C#\Tafelkaart\Tafelkaart\obj\Debug\net10.0\ref\Tafelkaart.dll
+C:\Users\zange\Documents\C#\Tafelkaart\Tafelkaart\obj\Debug\net10.0\Tafelkaart.csproj.Up2Date
